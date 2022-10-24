@@ -1,4 +1,4 @@
-# Hello, I'm Do_madd9 and I want to be a software developer!
+# Hello, I'm isa_code and I want to be a software developer!
 
 ### SOME THINGS ABOUT ME
 
@@ -12,7 +12,7 @@
 
 ### SOME THINGS THAT I EXPECT FROM THE FUTURE
 
-🤖 I hope to make a lot of projects related to: videogames, animation, education, management, music, electronic, data science.
+🤖 I hope to make a lot of projects related to: videogames, animation, education, music, electronic, data science.
 
 🤖 I hope to get a job programming, leading or participating on a project.
 
