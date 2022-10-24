@@ -2,11 +2,11 @@
 
 ### SOME THINGS ABOUT ME
 
-⭐ I'm 20 years old 
+⭐ I'm 21 years old
 
 ⭐ I'm from South America
 
-⭐ I'm studying systems engineering on the university.
+⭐ I'm studying systems engineering.
 
 ⭐ I can speak Spanish and English (For know).
 
