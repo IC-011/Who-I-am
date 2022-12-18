@@ -6,15 +6,11 @@
 
 ⭐ I'm from South America
 
-⭐ I'm studying systems engineering.
-
 ⭐ I can speak Spanish and English (For know).
 
 ### SOME THINGS THAT I EXPECT FROM THE FUTURE
 
 🤖 I hope to make a lot of projects related to: videogames, animation, education, music, electronic, data science.
-
-🤖 I hope to get a job programming, leading or participating on a project.
 
 🤖 Get the level to teach and put my habilities to help people.
 
@@ -27,7 +23,7 @@
 
 ### Let's be friends!
 
-Twitter: 
+Twitter: @Isa_Code
 
 Soundcloud:
 
